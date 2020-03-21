@@ -10,7 +10,7 @@ The User can choose one of 5 options on the UI that shows up after every choice.
 4. Select an operation to perform from addition, subtraction, and multiplication
 5. Exit Program
 
-### Note: Selecting option 1 or 2 will also prompt you to input the size of the matrix before input values into it
+### Note: Selecting option 1 or 2 will also prompt you to input the size of the matrix before inputting values into it
 
 ## Tasks
 - Build a program capable of performing basic matrix operations: addition, subtraction, and multiplication
@@ -18,4 +18,4 @@ The User can choose one of 5 options on the UI that shows up after every choice.
 - Create a readable console UI to make using the program as easy as possible for the user
 
 ## Example
-![Matrix Calculator]()
+![Matrix Calculator](https://github.com/JadeAnt/Matrix_Calculator_Java/blob/master/Matrix%20Calculator.JPG)
