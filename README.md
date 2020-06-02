@@ -3,7 +3,7 @@
 ## Description
 This program is able to perform matrix addition, subtraction, and multiplication in terminal. 
 
-The User can choose one of 5 options on the UI that shows up after every choice.
+The User can choose one of five options on the UI that shows up after every choice.
 1. Input values for 1st matrix
 2. Input values for 2nd matrix
 3. Display the values of both matricies
